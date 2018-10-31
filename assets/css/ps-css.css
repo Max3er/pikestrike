@@ -47,8 +47,21 @@ hr {
   .social-media h3 {
     font-size: 1.1em; }
 
+#one {
+  background-image: url(/images/fisherman.svg);
+  background-repeat: no-repeat;
+  background-position: 80%;
+  background-size: 40%;
+  background-position-y: 100%; }
+
 .footer-information {
   color: #f3f3f3 !important; }
+
+.copyright {
+  color: #5d6151 !important; }
+  .copyright a {
+    color: #5d6151 !important;
+    font-weight: bold; }
 
 /* CSS */
 #movie {

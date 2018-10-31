@@ -49,10 +49,25 @@ hr {
     }
 }
 
+#one {
+    background-image: url(/images/fisherman.svg);
+    background-repeat: no-repeat;
+    background-position: 80%;
+    background-size: 40%;
+    background-position-y: 100%;
+}
+
 .footer-information {
     color: #f3f3f3 !important;
 }
 
+.copyright {
+    color: #5d6151 !important;
+    a {
+        color: #5d6151 !important;
+        font-weight: bold;
+    }
+}
 
 /* CSS */
 
