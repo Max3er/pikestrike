@@ -37,6 +37,16 @@ hr {
     .offer-wrapper > .card:last-child {
       margin-right: 0; }
 
+.social-media {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+  .social-media h3 {
+    font-size: 1.1em; }
+
 .footer-information {
   color: #f3f3f3 !important; }
 
